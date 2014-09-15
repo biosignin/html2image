@@ -3,7 +3,7 @@
 	<groupId>eu.inn</groupId>
 	<artifactId>html2image</artifactId>
 	<packaging>jar</packaging>
-	<version>2.0.2-SNAPSHOT</version>
+	<version>2.0.2</version>
 	<name>html2image</name>
 	<dependencies>
 		<dependency>
@@ -69,7 +69,7 @@
 		<connection>scm:git:ssh://github.com/biosignin/html2image.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/biosignin/html2image.git</developerConnection>
 		<url>https://github.com/biosignin/html2image</url>
-		<tag>HEAD</tag>
+		<tag>v2.0.2</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
